@@ -1,0 +1,11 @@
+.idea
+.git
+.project
+.settings
+.pydevproject
+__pycache__
+*.egg-info
+*.pyc
+dist
+build
+
